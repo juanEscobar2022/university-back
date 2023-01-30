@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityFullstack.API", "UniversityFullstack.API\UniversityFullstack.API.csproj", "{000B20BA-6447-4329-A41B-FEEEF096E424}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityFullstack.BL", "UniversityFullstack.BL\UniversityFullstack.BL.csproj", "{F5C02B8F-1001-4444-A1C1-CA606E5ED34B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{000B20BA-6447-4329-A41B-FEEEF096E424}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000B20BA-6447-4329-A41B-FEEEF096E424}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000B20BA-6447-4329-A41B-FEEEF096E424}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000B20BA-6447-4329-A41B-FEEEF096E424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5C02B8F-1001-4444-A1C1-CA606E5ED34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C02B8F-1001-4444-A1C1-CA606E5ED34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C02B8F-1001-4444-A1C1-CA606E5ED34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C02B8F-1001-4444-A1C1-CA606E5ED34B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5F66474-7458-4205-97CE-2BA00F2225E6}
+	EndGlobalSection
+EndGlobal
